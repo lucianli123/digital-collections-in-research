@@ -3,7 +3,7 @@
 Code for the Culture at Scale project "Mass Digitization in Research Workflows"
 
 ## Data
-[t](https://uofi.box.com/s/qpvhd9w194obtglygywc8h5fy3uc6s7m)
+[Download data here](https://uofi.box.com/s/qpvhd9w194obtglygywc8h5fy3uc6s7m)
 1. full_meta.csv: post filtering articles, includes title, data author, full text, predicted scores for each subject, and if each digitized collection is mentioned in the article
 2. tfidf_eng.csv: bag of words counts for each article
 3. subj.csv: subject scores gfor each article generated with logistic classifiers trained on expert assigned labels.

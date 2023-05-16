@@ -1,4 +1,4 @@
-# digital-collections-in-research
+# Mass Digitization in Research Workflows
 
 Code for the Culture at Scale project "Mass Digitization in Research Workflows"
 
